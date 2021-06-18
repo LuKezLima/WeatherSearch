@@ -288,17 +288,20 @@ export default {
 }
 
 .info{
-    padding-top: 45px;
+    padding-top: 80px;
     height: 100%;
     font-size: 3rem;
     display: flex;
     justify-content:flex-end;
     align-items: center;
+    bottom: 0%;
+    position: relative;
 }
 
 
 .info span{
     font-size: 2rem;
+
 }
 
 .title{
