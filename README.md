@@ -14,9 +14,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/LuKezLima" target="_blank">Author</a>
 </p>
 
@@ -37,7 +35,7 @@ The following tools were used in this project:
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
-## :memo: License ##
+## :memo: Author ##
 
 Made with :heart: by <a href="https://github.com/LuKezLima" target="_blank">Lucas Lima</a>
 
