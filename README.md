@@ -1,4 +1,4 @@
-# weathercheck
+# WeatherSearch
 
 ## Project setup
 ```
