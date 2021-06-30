@@ -288,7 +288,7 @@ export default {
 }
 
 .info{
-    padding-top: 80px;
+    padding-top: 81px;
     height: 100%;
     font-size: 3rem;
     display: flex;
