@@ -3,7 +3,7 @@
   &#xa0;
 </div>
 
-<h1 align="center">Weathercheck</h1>
+<h1 align="center">WeatherSearch</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/P911ZmH.png">
